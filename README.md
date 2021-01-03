@@ -11,4 +11,4 @@
                                                       
                                                       I'm still a newbie🙈
 
-<img src="https://github-readme-stats.vercel.app/api?username=devartes&&show_icons=true&title_color=aaff00&icon_color=ff00f7&text_color=ffffff&bg_color=151515"> <img src="http://www.pngmart.com/files/2/Pac-Man-Ghost-PNG-Image.png" width="48"> <img src="https://cdn.pixabay.com/photo/2020/08/13/01/38/exclamation-5483947_960_720.png" width="40">        <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c316.png" width="128">                <img src="https://cdn.lowgif.com/full/aebf6194d75ded27-pacman-gifs-search-find-make-share-gfycat-gifs.gif">
+<img src="https://github-readme-stats.vercel.app/api?username=devartes&&show_icons=true&title_color=aaff00&icon_color=ff00f7&text_color=ffffff&bg_color=151515"> <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c316.png" width="128">                <img src="https://cdn.lowgif.com/full/aebf6194d75ded27-pacman-gifs-search-find-make-share-gfycat-gifs.gif">
