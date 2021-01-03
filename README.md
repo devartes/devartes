@@ -5,10 +5,10 @@
 
 
 
-                                            Hello, I'm Ana Carolina Duarte Cavalcante!
+<img src="https://raw.githubusercontent.com/devartes/devartes/main/20210103_111359_0000.png">
 
-                                         I'm a student and I'm interested in the front-end
+
                                                       
-                                                      I'm still a newbie🙈
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=devartes&&show_icons=true&title_color=aaff00&icon_color=ff00f7&text_color=ffffff&bg_color=151515"> <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c316.png" width="128">                <img src="https://cdn.lowgif.com/full/aebf6194d75ded27-pacman-gifs-search-find-make-share-gfycat-gifs.gif">
