@@ -8,9 +8,8 @@
                                             Hello, I'm Ana Carolina Duarte Cavalcante!
 
                                          I'm a student and I'm interested in the front-end
+                                                      
+                                                      I'm still a newbie🙈
 
-<img src="https://github-readme-stats.vercel.app/api?username=devartes&&show_icons=true&title_color=aaff00&icon_color=ff00f7&text_color=ffffff&bg_color=151515">
-<img src="https://erbtechnologies.co.za/images/colour-lines-transparent-copy.png">                                                   
-
-
-                                                     
+<img src="https://github-readme-stats.vercel.app/api?username=devartes&&show_icons=true&title_color=aaff00&icon_color=ff00f7&text_color=ffffff&bg_color=151515">                                                  
+<img src="https://cdn.lowgif.com/full/aebf6194d75ded27-pacman-gifs-search-find-make-share-gfycat-gifs.gif">
