@@ -1,11 +1,11 @@
 <img src="https://github.com/devartes/devartes/blob/main/background2.png">
-<h1 align="center">
+<h2 align="center">
   <br>
   <a href="https://devartes-portfolio.vercel.app/"><img src="https://github.com/devartes/devartes/blob/main/devartes.png" alt="Markdownify" width="400"></a>
   <br>
   Programar é uma arte!
   <br>
-</h1> 
+</h2> 
 <p align="center">
   <a href="#">
     <img src="https://camo.githubusercontent.com/e56d586bf373ad33a4e8c7101246d54d5edc0fb52b87d309b899ce4818bd6086/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170"
