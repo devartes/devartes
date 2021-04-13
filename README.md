@@ -1,5 +1,5 @@
 <img src="https://github.com/devartes/devartes/blob/main/background2.png">
-<img src="https://github.com/devartes/devartes/blob/main/terra.png">
+<img src="https://github.com/devartes/devartes/blob/main/devartes.png">
 
 <h2>Hello World! <br>Eu me chamo Ana Carolina Duarte Cavalcante</br></h2>
 <p>Eu amo criar!</p>
