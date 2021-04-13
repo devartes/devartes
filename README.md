@@ -1,5 +1,4 @@
 <img src="https://github.com/devartes/devartes/blob/main/background2.png">
-<p float="center"><img src="https://github.com/devartes/devartes/blob/main/devartes.png" width="500"></p>
 <table>
   <tr>
     <td><h2>Hello World! <br>Eu me chamo Ana Carolina Duarte Cavalcante</br></h2>
