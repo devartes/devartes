@@ -1,4 +1,3 @@
-<img src="https://github.com/devartes/devartes/blob/main/background2.png">
 <h2 align="center">
   <br>
   <a href="https://devartes-portfolio.vercel.app/"><img src="https://github.com/devartes/devartes/blob/main/devartes.png" alt="Markdownify" width="400"></a>
@@ -34,5 +33,3 @@
         <br>Quero poder fazer arte de uma forma diferente... 
         <br><strong>Programando!:smiley:</strong>
 </p>
-
-<img src="https://github.com/devartes/devartes/blob/main/background2.png">
