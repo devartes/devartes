@@ -28,7 +28,7 @@
         Eu me chamo Ana Carolina Duarte Cavalcante<br>
         Eu amo criar!
         Desenho desde os 8 anos de idade.
-        <br>Tenho interesse no Front-end, aplicativos e em jogos.
+        <br>Tenho interesse no front-end, software , aplicativos e em jogos.
         <br>Quero poder fazer arte de uma forma diferente... 
         <br><strong>Programando!:smiley:</strong>
  </p>       
