@@ -1,6 +1,6 @@
 <h2 align="center">
   <br>
-  <a href="https://devartes-portfolio.vercel.app/"><img src="https://github.com/devartes/devartes/blob/main/devartes.png" alt="Markdownify" width="400"></a>
+  <a href="https://devartes-portfolio.vercel.app/"><img src="https://github.com/devartes/devartes/blob/main/soufrontend.png" alt="Markdownify" width="400"></a>
   <br>
   Programar é uma arte!
   <br>
