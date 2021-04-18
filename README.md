@@ -33,3 +33,18 @@
         <br>Quero poder fazer arte de uma forma diferente... 
         <br><strong>Programando!:smiley:</strong>
 </p>
+
+
+|   Esquerda   |  Centralizado  |    Direita    |
+| :---         |     :---:      |          ---: |
+| <img src="https://github.com/devartes/devartes/blob/main/devartes.png" width="100">   | <img src="https://github.com/devartes/devartes/blob/main/devartes.png" width="100">     | <img src="https://github.com/devartes/devartes/blob/main/devartes.png" width="100">    |
+| git diff     | git diff       | git diff      |
+
+<p align="right">
+        Eu me chamo Ana Carolina Duarte Cavalcante</br>
+        Eu amo criar!
+        Desenho desde os 8 anos de idade.
+        <br>Tenho interesse no Front-end, aplicativos e em jogos.
+        <br>Quero poder fazer arte de uma forma diferente... 
+        <br><strong>Programando!:smiley:</strong>
+</p>
