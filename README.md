@@ -37,8 +37,7 @@
 
 |   Esquerda   |  Centralizado  |    Direita    |
 | :---         |     :---:      |          ---: |
-| <img src="https://github.com/devartes/devartes/blob/main/devartes.png" width="100">   | <img src="https://github.com/devartes/devartes/blob/main/devartes.png" width="100">     | <img src="https://github.com/devartes/devartes/blob/main/devartes.png" width="100">    |
-| git diff     | git diff       | git diff      |
+| <img src="https://github.com/devartes/devartes/blob/main/html.png" width="50">   | <img src="https://github.com/devartes/devartes/blob/main/css.png" width="50">     | <img src="https://github.com/devartes/devartes/blob/main/html.png" width="50">   |
 
 <p align="right">
         Eu me chamo Ana Carolina Duarte Cavalcante</br>
