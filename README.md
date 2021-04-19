@@ -1,6 +1,6 @@
 <h2 align="center">
   <br>
-  <a href="https://devartes-portfolio.vercel.app/"><img src="https://github.com/devartes/devartes/blob/main/soufrontend.png" alt="Markdownify"></a>
+  <a href="https://devartes-portfolio.vercel.app/"><img src="https://github.com/devartes/devartes/blob/main/soufrontend.png" alt="devartes"></a>
   <br>
   Programar é uma arte!
   <br>
@@ -36,3 +36,6 @@
 <a href="https://www.linkedin.com/in/anacdcavalcante">
     <img src="https://img.shields.io/badge/-Ana Carolina Duarte Cavalcante-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
+  
+ <br> 
+<img src="https://github.com/devartes/devartes/blob/main/codigo.png" alt="devartes">
