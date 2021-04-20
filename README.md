@@ -37,5 +37,5 @@
     <img src="https://img.shields.io/badge/-Ana Carolina Duarte Cavalcante-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   
- <br> 
+
 <img src="https://github.com/devartes/devartes/blob/main/codigo.png" alt="devartes">
