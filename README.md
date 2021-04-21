@@ -34,7 +34,7 @@
 
 <h3><a id="fale-comigo-no-linkedin:" class="anchor" aria-hidden="true" href="#talk-with-me-i-am-kinda-awesome"></a>Fale comigo no Linkedin:</h3>
 <a href="https://www.linkedin.com/in/anacdcavalcante">
-    <img src="https://img.shields.io/badge/-Ana Carolina Duarte Cavalcante-blue?style=flat-square&logo=Linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
 
