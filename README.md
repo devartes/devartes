@@ -1,10 +1,12 @@
-<h2 align="center">
+<p align="center">
   <br>
   <a href="https://devartes-portfolio.vercel.app/"><img src="https://github.com/devartes/devartes/blob/main/soufrontend.png" alt="devartes"></a>
   <br>
-  Programar é uma arte!
+  <a href="#">
+    <img src="https://shields.io/badge/programar%20%C3%A9%20uma%20arte!-black?logo=github&style=for-the-badge">
+  </a>
   <br>
-</h2> 
+</p> 
 <p align="center">
   <a href="#">
     <img src="https://shields.io/badge/skills-n%C3%ADvel:%20iniciante%20-purple?logo=github&style=for-the-badge">
