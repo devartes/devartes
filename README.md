@@ -28,6 +28,7 @@
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://devartes-portfolio.vercel.app/?raw=true"><img align="right" alt="GIF" src="https://github.com/devartes/devartes/blob/main/dev.gif?raw=true" width="400" style="max-width:100%;"></a></p>
 <h2><a id="eu-sou-uma-designer-gráfica-aprendendo-a-programar" class="anchor" aria-hidden="true" href="#eu-sou-uma-designer-gráfica-aprendendo-a-programar"></a>Eu sou uma designer gráfica aprendendo a programar!</h2>
+
 <p align="left">
         Eu amo criar!
         Desenho desde os 8 anos de idade.
