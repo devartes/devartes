@@ -27,14 +27,14 @@
 </p>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://devartes-portfolio.vercel.app/?raw=true"><img align="right" alt="GIF" src="https://github.com/devartes/devartes/blob/main/computador%20(2).gif?raw=true" width="400" style="max-width:100%;"></a></p>
-<h2><a id="eu-sou-uma-designer-gráfica-aprendendo-a-programar" class="anchor" aria-hidden="true" href="#eu-sou-uma-designer-gráfica-aprendendo-a-programar"></a>Eu sou uma designer gráfica aprendendo a programar!</h2>
+<h2><a id="eu-sou-uma-designer-gráfica-aprendendo-a-programar" class="anchor" aria-hidden="true" href="#eu-sou-uma-designer-gráfica-aprendendo-a-programar"></a>Eu sou uma designer gráfica aprendendo a programar!:star:</h2>
 
 <p align="left">
         Eu amo criar!
         Desenho desde os 8 anos de idade.
         <br>Tenho interesse no front-end, software , aplicativos e em jogos.
         <br>Quero poder fazer arte de uma forma diferente... 
-        <br><strong>Programando!:smiley:</strong>
+        <br><strong>Programando!:heart:</strong>
  </p>       
 
 <h3><a id="fale-comigo-no-linkedin:" class="anchor" aria-hidden="true" href="#talk-with-me-i-am-kinda-awesome"></a>Fale comigo no Linkedin:</h3>
