@@ -9,7 +9,7 @@
 </p> 
 <p align="center">
   <a href="#">
-    <img src="https://shields.io/badge/skills-n%C3%ADvel:%20iniciante%20-purple?logo=github&style=for-the-badge">
+    <img src="https://shields.io/badge/skills-black?logo=github&style=for-the-badge">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
