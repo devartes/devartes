@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <a href="https://devartes-portfolio.vercel.app/"><img src="https://github.com/devartes/devartes/blob/main/soufrontend.png" alt="devartes"></a>
+  <a href="https://devartes-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/devartes/devartes/main/github%20profile-01.png" alt="devartes"></a>
   <br>
   <a href="#">
     <img src="https://shields.io/badge/programar%20%C3%A9%20uma%20arte!-black?logo=github&style=for-the-badge">
@@ -36,10 +36,9 @@
         <br>Quero poder fazer arte de uma forma diferente... 
         <br><strong>Programando!:heart:</strong>
  </p>       
-
 <h3><a id="fale-comigo-no-linkedin:" class="anchor" aria-hidden="true" href="#talk-with-me-i-am-kinda-awesome"></a>Fale comigo no Linkedin:</h3>
 <a href="https://www.linkedin.com/in/anacdcavalcante">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-<img src="https://github.com/devartes/devartes/blob/main/codigo.png" alt="devartes">
+<img src="https://raw.githubusercontent.com/devartes/devartes/main/github%20profile-02.png" alt="devartes">
