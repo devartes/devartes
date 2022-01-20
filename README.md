@@ -33,7 +33,7 @@
         Eu amo criar!
         Desenho desde os 8 anos de idade.
         <br>Tenho interesse no front-end, software , aplicativos e em jogos.
-        <br>Quero poder fazer arte de uma forma diferente... 
+        <br>Quero poder fazer arte de uma forma diferente....
         <br><strong>Programando!:heart:</strong>
  </p>       
 <h3><a id="fale-comigo-no-linkedin:" class="anchor" aria-hidden="true" href="#talk-with-me-i-am-kinda-awesome"></a>Fale comigo no Linkedin:</h3>
