@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <a href="https://devartes-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/devartes/devartes/main/github%20profile-01.png" alt="devartes"></a>
+  <a href="https://devartes-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/devartes/devartes/main/dragon%20blue-01.png" alt="devartes"></a>
   <br>
   <a href="#">
     <img src="https://shields.io/badge/programar%20%C3%A9%20uma%20arte!-black?logo=github&style=for-the-badge">
@@ -41,4 +41,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-<img src="https://raw.githubusercontent.com/devartes/devartes/main/github%20profile-02.png" alt="devartes">
+<img src="https://raw.githubusercontent.com/devartes/devartes/main/dragon%20blue-02.png" alt="devartes">
