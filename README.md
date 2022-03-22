@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <a href="https://devartes-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/devartes/devartes/main/dragon%20blue-01.png" alt="devartes"></a>
+  <a href="https://devartes-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/devartes/devartes/main/dragon4-01.png" alt="devartes"></a>
   <br>
   <a href="#">
     <img src="https://shields.io/badge/programar%20%C3%A9%20uma%20arte!-black?logo=github&style=for-the-badge">
