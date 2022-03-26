@@ -7,7 +7,7 @@
 <th colspan="5">Front-end Development and Software Engeneering</th>
 </tr>
 <tr>
-<td><p align="center">interests</p></td>
+ <td><p align="center"><strong>Interests</strong></p></td>
 <td><img src="https://github.com/devartes/devartes/blob/main/html-01.png" width="50" ></td>
 <td><img src="https://github.com/devartes/devartes/blob/main/css-01.png" width="50" ></td>
 <td><img src="https://github.com/devartes/devartes/blob/main/js-01.png" width="50" ></td>
