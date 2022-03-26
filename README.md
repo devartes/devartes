@@ -23,19 +23,19 @@
 <td><img src="https://github.com/devartes/devartes/blob/main/tux-01.png" width="50" ></td>
 <td><img src="https://github.com/devartes/devartes/blob/main/sass-01.png" width="50" ></td>
 <td><img src="https://github.com/devartes/devartes/blob/main/webassembly-01.png" width="50" ></td>
-<td><img src="https://github.com/devartes/devartes/blob/main/react-01.png" width="50" ></td>
+<td><img src="https://github.com/devartes/devartes/blob/main/php-01.png" width="50" ></td>
 </tr>
 <tr>
 <td><img src="https://github.com/devartes/devartes/blob/main/c-01.png" width="50" ></td>
 <td><img src="https://github.com/devartes/devartes/blob/main/csharp-01.png" width="50" ></td>
 <td><img src="https://github.com/devartes/devartes/blob/main/cplus-01.png" width="50" ></td>
-<td><img src="https://github.com/devartes/devartes/blob/main/react-01.png" width="50" ></td>
+<td><img src="https://github.com/devartes/devartes/blob/main/google-01.png" width="50" ></td>
 </tr>
 <tr>
-<td><img src="https://github.com/devartes/devartes/blob/main/html-01.png" width="50" ></td>
-<td><img src="https://github.com/devartes/devartes/blob/main/css-01.png" width="50" ></td>
+<td><img src="https://github.com/devartes/devartes/blob/main/windows-01.png" width="50" ></td>
+<td><img src="https://github.com/devartes/devartes/blob/main/mac-01.png" width="50" ></td>
 <td><img src="https://github.com/devartes/devartes/blob/main/js-01.png" width="50" ></td>
-<td><img src="https://github.com/devartes/devartes/blob/main/react-01.png" width="50" ></td> 
+<td><img src="https://github.com/devartes/devartes/blob/main/adobe-01.png" width="50" ></td> 
 </tr>
 </tbody>
 </table>
