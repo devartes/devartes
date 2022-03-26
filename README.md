@@ -42,4 +42,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-<img src="https://raw.githubusercontent.com/devartes/devartes/main/dragon%20blue-02.png" alt="devartes">
+<img src="https://github.com/devartes/devartes/blob/main/win%20xp%202-01.png" alt="devartes">
