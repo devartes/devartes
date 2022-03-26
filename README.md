@@ -4,7 +4,7 @@
   <br>
   <br>
 </p> 
-<a target="_blank" rel="noopener noreferrer" href="https://devartes-portfolio.vercel.app/?raw=true"><img align="right" alt="GIF" src="https://github.com/devartes/devartes/blob/main/computador%20(2).gif?raw=true" width="456"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://devartes-portfolio.vercel.app/?raw=true"><img align="right" alt="GIF" src="https://github.com/devartes/devartes/blob/main/computador%20(2).gif?raw=true" width="450"></a>
 <p align="left">
 <table>
 <tbody>
@@ -18,7 +18,7 @@
 <td><img src="https://github.com/devartes/devartes/blob/main/js-01.png" width="50" ></td>
 </tr>
 <tr>
-<td rowspan="3"><img src="https://github.com/devartes/devartes/blob/main/kali-01.png" width="100" ></td>
+<td rowspan="3"><img src="https://github.com/devartes/devartes/blob/main/kali-01.png" width="150" ></td>
 <td><img src="https://github.com/devartes/devartes/blob/main/tux-01.png" width="50" ></td>
 <td><img src="https://github.com/devartes/devartes/blob/main/sass-01.png" width="50" ></td>
 <td><img src="https://github.com/devartes/devartes/blob/main/webassembly-01.png" width="50" ></td>
