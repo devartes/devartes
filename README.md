@@ -28,14 +28,41 @@
 </p>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://devartes-portfolio.vercel.app/?raw=true"><img align="right" alt="GIF" src="https://github.com/devartes/devartes/blob/main/computador%20(2).gif?raw=true" width="400" style="max-width:100%"></a></p>
-<h2><a id="eu-sou-uma-designer-gráfica-aprendendo-a-programar" class="anchor" aria-hidden="true" href="#eu-sou-uma-designer-gráfica-aprendendo-a-programar"></a>Eu sou uma designer gráfica aprendendo a programar!:star:</h2>
 
 <p align="left">
-        Eu amo criar!
-        Desenho desde os 8 anos de idade.
-        <br>Tenho interesse no front-end, software , aplicativos e em jogos.
-        <br>Quero poder fazer arte de uma forma diferente....
-        <br><strong>Programando!:heart:</strong>
+<table>
+<tbody>
+<tr>
+<th colspan="5">Tabela</th>
+</tr>
+<tr>
+<td>teste</td>
+<td>teste</td>
+<td>teste</td>
+<td>teste</td>
+<td>teste</td>
+</tr>
+<tr>
+<td rowspan="3">Interesses</td>
+<td>teste</td>
+<td>teste</td>
+<td>teste</td>
+<td><img src="https://shields.io/badge/skills-black?logo=github&style=for-the-badge"></td>
+</tr>
+<tr>
+<td>teste1</td>
+<td>teste</td>
+<td>teste</td>
+<td>teste</td>
+</tr>
+<tr>
+<td>teste2</td>
+<td>teste</td>
+<td>teste</td>
+<td><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></td>  
+</tr>
+</tbody>
+</table>
  </p>       
 <h3><a id="fale-comigo-no-linkedin:" class="anchor" aria-hidden="true" href="#talk-with-me-i-am-kinda-awesome"></a>Fale comigo no Linkedin:</h3>
 <a href="https://www.linkedin.com/in/anacdcavalcante">
