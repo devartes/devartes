@@ -4,7 +4,7 @@
   <br>
   <br>
 </p> 
-<a target="_blank" rel="noopener noreferrer" href="https://devartes-portfolio.vercel.app/?raw=true"><img align="right" alt="GIF" src="https://github.com/devartes/devartes/blob/main/computador%20(2).gif?raw=true" width="420"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://devartes-portfolio.vercel.app/?raw=true"><img align="right" alt="GIF" src="https://github.com/devartes/devartes/blob/main/computador%20(2).gif?raw=true" width="400"></a>
 <p align="left">
 <table>
 <tbody>
