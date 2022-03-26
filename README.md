@@ -1,6 +1,6 @@
 <img src="https://github.com/devartes/devartes/blob/main/win%20xp-01.png" alt="devartes">
 <img align="right" alt="GIF" src="https://github.com/devartes/devartes/blob/main/clippy.gif?raw=true" width="410">
-<img align="right" alt="GIF" src="https://github.com/devartes/devartes/blob/main/clippy%20sleep.gif?raw=true" width="100">
+
 <p align="left">
 <table>
 <tbody>
@@ -32,9 +32,11 @@
 </tbody>
 </table>
  </p>       
+ <img align="right" alt="GIF" src="https://github.com/devartes/devartes/blob/main/clippy%20sleep.gif?raw=true" width="100">
 <h3><a id="fale-comigo-no-linkedin:" class="anchor" aria-hidden="true" href="#talk-with-me-i-am-kinda-awesome"></a>Fale comigo no Linkedin:</h3>
 <a href="https://www.linkedin.com/in/anacdcavalcante">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   
 <img src="https://github.com/devartes/devartes/blob/main/win%20xp%202-01.png" alt="devartes">
