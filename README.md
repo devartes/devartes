@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://github.com/devartes/devartes/blob/main/win%20xp-01.png" alt="devartes">
-  <br>
   <a href="https://devartes-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/devartes/devartes/main/dragon4-01.png" alt="devartes"></a>
   <br>
   <a href="#">
@@ -33,32 +32,32 @@
 <table>
 <tbody>
 <tr>
-<th colspan="5">Tabela</th>
+<th colspan="5">Front-end Development and Software Engeneering</th>
 </tr>
 <tr>
-<td>teste</td>
-<td>teste</td>
-<td>teste</td>
-<td>teste</td>
-<td>teste</td>
+<td><p align="center">interests</p></td>
+<td><p align="center">interests</p></td>
+<td><p align="center">interests</p></td>
+<td><p align="center">teste</p></td>
+<td><p align="center">teste</p></td>
 </tr>
 <tr>
-<td rowspan="3">Interesses</td>
-<td>teste</td>
-<td>teste</td>
-<td>teste</td>
+<td rowspan="3"><img src="https://github.com/devartes/devartes/blob/main/kali-01.png" width="200" ></td>
+<td><p align="center">interests</p></td>
+<td><p align="center">teste</p></td>
+<td><p align="center">teste</p></td>
 <td><img src="https://shields.io/badge/skills-black?logo=github&style=for-the-badge"></td>
 </tr>
 <tr>
-<td>teste1</td>
-<td>teste</td>
-<td>teste</td>
-<td>teste</td>
+<td><p align="center">interests</p></td>
+<td><p align="center">interests</p></td>
+<td><p align="center">teste</p></td>
+<td><p align="center">teste</p></td>
 </tr>
 <tr>
-<td>teste2</td>
-<td>teste</td>
-<td>teste</td>
+<td><p align="center">interests</p></td>
+<td><p align="center">teste</p></td>
+<td><p align="center">teste</p></td>
 <td><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></td>  
 </tr>
 </tbody>
