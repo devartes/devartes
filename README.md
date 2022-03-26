@@ -18,7 +18,7 @@
 <td><img src="https://github.com/devartes/devartes/blob/main/js-01.png" width="50" ></td>
 </tr>
 <tr>
-<td rowspan="3"><img src="https://github.com/devartes/devartes/blob/main/kali-01.png" width="200" ></td>
+<td rowspan="3"><img src="https://github.com/devartes/devartes/blob/main/kali-01.png" width="100" ></td>
 <td><img src="https://github.com/devartes/devartes/blob/main/tux-01.png" width="50" ></td>
 <td><img src="https://github.com/devartes/devartes/blob/main/sass-01.png" width="50" ></td>
 <td><img src="https://github.com/devartes/devartes/blob/main/webassembly-01.png" width="50" ></td>
