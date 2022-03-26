@@ -1,8 +1,5 @@
 <p align="center">
   <img src="https://github.com/devartes/devartes/blob/main/win%20xp-01.png" alt="devartes">
-  <a href="https://devartes-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/devartes/devartes/main/dragon4-01.png" alt="devartes"></a>
-  <br>
-  <br>
 </p> 
 <a target="_blank" rel="noopener noreferrer" href="https://devartes-portfolio.vercel.app/?raw=true"><img align="right" alt="GIF" src="https://github.com/devartes/devartes/blob/main/computador%20(2).gif?raw=true" width="410"></a>
 <p align="left">
