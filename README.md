@@ -32,12 +32,12 @@
 </table>
  </p>       
  <img align="right" alt="GIF" src="https://github.com/devartes/devartes/blob/main/clippy%20sleep.gif?raw=true" width="100">
-<h4><a id="fale-comigo-no-linkedin:" class="anchor" aria-hidden="true" href="#talk-with-me-i-am-kinda-awesome"></a>Contact me on Linkedin:</h4>
+<img src="https://i.ibb.co/vs0mVXr/feature-open-source-2x.gif" width="50" >
 <a href="https://www.linkedin.com/in/anacdcavalcante">
- <img src="https://img.shields.io/badge/Perfil LinkedIn-Clique Aqui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <img src="https://img.shields.io/badge/Profile LinkedIn-Click here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://anacarolinadc.me/">
- <img src="https://img.shields.io/badge/WordPress Portfólio-Clique Aqui-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
+ <img src="https://img.shields.io/badge/WordPress Portfolio-Click here-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
 </a>
 
 
