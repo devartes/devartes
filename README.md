@@ -1,4 +1,4 @@
-<img src="https://github.com/devartes/devartes/blob/main/win%20xp-01.png" alt="devartes">
+<img src="https://i.ibb.co/qDnYNM2/perfil.png" alt="perfil" border="0">
 <img align="right" alt="GIF" src="https://github.com/devartes/devartes/blob/main/clippy.gif?raw=true" width="410">
 <p align="left">
 <table>
