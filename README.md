@@ -5,10 +5,11 @@
 
 <h2 align="center"><img src="https://i.ibb.co/vs0mVXr/feature-open-source-2x.gif" width="50" >Main Project (ChesdraOS) - Operating System Clone</h2>
 
+
 <img align="right" src="https://i.ibb.co/smDgjTX/perfil-04.png?raw=true" width="410">
 <p align="left">
 <img src="https://i.ibb.co/RBK18t4/perfil-03.png" width="410">
- </p>       
+ </p>    
 
 
 <p align="center">
