@@ -13,6 +13,16 @@
 
 
 <p align="center">
+<a href="https://chesdra.vercel.app/">
+[PREVIEW BEFORE]
+</a>
+<a href="https://chesdra-teste.vercel.app/">
+[PREVIEW NOW]
+</a>
+ </p> 
+
+
+<p align="center">
 <a href="https://www.linkedin.com/in/anacdcavalcante">
  <img src="https://img.shields.io/badge/Profile LinkedIn-Click here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
