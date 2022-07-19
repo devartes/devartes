@@ -11,10 +11,10 @@
 
 <p align="center">
 <a href="https://chesdra.vercel.app/">
-[PREVIEW BEFORE]
+<img src="https://img.shields.io/badge/Preview-Before-%23117AC9.svg?style=for-the-badge&logo=Github&logoColor=white">
 </a>
 <a href="https://chesdra-teste.vercel.app/">
-[PREVIEW NOW]
+<img src="https://img.shields.io/badge/Preview-Now-%23117AC9.svg?style=for-the-badge&logo=Github&logoColor=white">
 </a>
  </p> 
 
