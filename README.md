@@ -6,7 +6,7 @@
  </p>    
  
  <h2 align="center"><img src="https://i.ibb.co/vs0mVXr/feature-open-source-2x.gif" width="50" >Main Project (ChesdraOS) - Operating System Clone</h2>
-<h3 align="center">Click on the link below to view the project</h3>
+<h3 align="center">Click on the badge below to view the project</h3>
 
 
 <p align="center">
