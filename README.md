@@ -24,7 +24,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/anacdcavalcante">
- <img src="https://img.shields.io/badge/Profile LinkedIn-Click here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <img src="https://img.shields.io/badge/LinkedIn-Click here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://anacarolinadc.me/">
  <img src="https://img.shields.io/badge/WordPress-Click here-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
