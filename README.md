@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/PFn7RGx/perfil-01.png" alt="perfil-01" border="0">
-<img align="right" src="https://i.ibb.co/smDgjTX/perfil-04.png?raw=true" width="430">
+<img align="right" src="https://i.ibb.co/smDgjTX/perfil-04.png?raw=true" width="410">
 <p align="left">
-<img src="https://i.ibb.co/RBK18t4/perfil-03.png" width="430">
+<img src="https://i.ibb.co/RBK18t4/perfil-03.png" width="410">
  </p>       
  <img align="right" alt="GIF" src="https://github.com/devartes/devartes/blob/main/clippy%20sleep.gif?raw=true" width="100">
 <img src="https://i.ibb.co/vs0mVXr/feature-open-source-2x.gif" width="50" >
