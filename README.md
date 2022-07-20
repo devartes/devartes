@@ -34,7 +34,3 @@
 </a>
 
  </p> 
-
-
-
- <img src="https://i.ibb.co/HGsYHgp/perfil-02.png" alt="perfil-02" border="0">
