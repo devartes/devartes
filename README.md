@@ -1,9 +1,4 @@
 <img src="https://i.ibb.co/PFn7RGx/perfil-01.png" alt="perfil-01" border="0">
-
-<img align="right" src="https://i.ibb.co/smDgjTX/perfil-04.png?raw=true" width="410">
-<p align="left">
-<img src="https://i.ibb.co/RBK18t4/perfil-03.png" width="410">
- </p>    
  
  <h2 align="center"><img src="https://i.ibb.co/vs0mVXr/feature-open-source-2x.gif" width="50" >Main Project (ChesdraOS) - Operating System Clone</h2>
 <h3 align="center">Click on the badge below to view the project</h3>
