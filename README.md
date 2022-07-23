@@ -21,7 +21,7 @@
 <div align="left">
 </br><img src="https://i.ibb.co/pb4n1GD/status-01.png" width="150">
 <h2>Main Project (ChesdraOS) - Operating System Clone</h2>
-<p>
+<p align="justify">
 This project was created to be my portfolio, the idea is to simulate what is possible of an operating system using tools that are used on the front-end. Below are links that allow you to view the first version of the project and the current version. I've been on this project for over 6 months.</p>
 
 <a href="https://chesdra.vercel.app/">
