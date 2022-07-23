@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/93ZsRfx/banner-01-1.png" alt="perfil-01" border="0">
 
-<p align="center">
+<div align="center">
 <a href="https://www.linkedin.com/in/anacdcavalcante">
  <img src="https://img.shields.io/badge/LinkedIn-Click here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -10,7 +10,7 @@
 <a href="https://www.behance.net/anacarolinadc">
  <img src="https://img.shields.io/badge/Behance-Click here-%23117AC9.svg?style=for-the-badge&logo=Behance&logoColor=white">
 </a>
- </p> 
+ </div> 
  
  
 <h2 align="center">𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜</h2>
