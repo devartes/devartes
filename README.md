@@ -1,5 +1,5 @@
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=devartes.visitor-badge&left_text=My%20Page%20Visitors)
-<img src="https://i.ibb.co/93ZsRfx/banner-01-1.png" alt="perfil-01" border="0">
+<img src="https://i.ibb.co/jG0zpXB/bannergithub-01.png" alt="perfil-01" border="0">
 
 <div align="center">
 <a href="https://www.linkedin.com/in/anacdcavalcante">
