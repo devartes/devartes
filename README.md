@@ -1,13 +1,14 @@
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=devartes.visitor-badge&left_text=My%20Page%20Visitors)
+ <!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=devartes.visitor-badge&left_text=My%20Page%20Visitors)-->
+ 
 <img src="https://i.ibb.co/jG0zpXB/bannergithub-01.png" alt="perfil-01" border="0">
 
 <div align="center">
 <a href="https://www.linkedin.com/in/anacdcavalcante">
  <img src="https://img.shields.io/badge/LinkedIn-Click here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://anacarolinadc.me/">
+<!-- <a href="https://anacarolinadc.me/">
  <img src="https://img.shields.io/badge/WordPress-Click here-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
-</a>
+</a> -->
 <a href="https://www.behance.net/anacarolinadc">
  <img src="https://img.shields.io/badge/Behance-Click here-%23117AC9.svg?style=for-the-badge&logo=Behance&logoColor=white">
 </a>
