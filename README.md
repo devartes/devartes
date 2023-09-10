@@ -12,9 +12,10 @@
 <!-- <a href="https://www.behance.net/anacarolinadc">
  <img src="https://img.shields.io/badge/Behance-Click here-%23117AC9.svg?style=for-the-badge&logo=Behance&logoColor=white">
 </a>
- </div>  -->
+ </div> 
  
-
+ 
+ 
 <div align="center">
  
 | MY SKILLS |
@@ -25,6 +26,12 @@
 | <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" alt="webassembly" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 
 </div>  
+ 
+ 
+ 
+ -->
+ 
+
 
 
 <img src="https://i.ibb.co/0BqTZhx/github.png" alt="github background"  width="100%">
