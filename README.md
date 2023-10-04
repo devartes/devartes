@@ -1,6 +1,9 @@
  <!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=devartes.visitor-badge&left_text=My%20Page%20Visitors)-->
  
-<img src="https://raw.githubusercontent.com/devartes/devartes/main/banner2023-01.png" alt="perfil-01" border="0">
+<!--<img src="https://raw.githubusercontent.com/devartes/devartes/main/banner2023-01.png" alt="perfil-01" border="0">-->
+
+
+[![An image of @devartes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devartes)](https://holopin.io/@devartes)
 
 <!-- <div align="center">
 <a href="https://www.linkedin.com/in/anacdcavalcante">
